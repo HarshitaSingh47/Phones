@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Phones</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dbfetch">Dbfetch</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="as">Person</string>
+    <string name="asd">Large Text</string>
+    <string name="title_activity_movie_list">MovieList</string>
+</resources>
